@@ -1,0 +1,10 @@
+<!-- Info.plist : CFBundleURLTypes -->
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+    <key>CFBundleURLSchemes</key>
+    <array>
+      <string>io.gta6rpboard.app</string>
+    </array>
+  </dict>
+</array>

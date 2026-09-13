@@ -1,0 +1,7 @@
+<!-- Coller dans android/app/src/main/AndroidManifest.xml, dans <activity> -->
+<intent-filter>
+  <action android:name="android.intent.action.VIEW" />
+  <category android:name="android.intent.category.DEFAULT" />
+  <category android:name="android.intent.category.BROWSABLE" />
+  <data android:scheme="io.gta6rpboard.app" android:host="login-callback" />
+</intent-filter>
